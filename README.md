@@ -216,7 +216,7 @@ Now,create a ingress file named as jenkins-ingress.yaml to configure your jenkin
 # Access Jenkins
 Now that Jenkins has been deployed, visit the address that was received from the ingress output:
 
-<img src=https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/1.png>
+<img src=screenshots/1.png>
 
 
 You can retrieve the username and password from the Civo Dashboard under "Installed applications":
