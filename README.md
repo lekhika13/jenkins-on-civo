@@ -220,7 +220,7 @@ Now that Jenkins has been deployed, visit the address that was received from the
 
 You can retrieve the username and password from the Civo Dashboard under "Installed applications":
 
-<img src=screenshots/6.png>
+<img src=screenshots/6.PNG>
 
 To get started, let's create a traditional hello-world job, which in this case is a shell script that outputs the time:
 
