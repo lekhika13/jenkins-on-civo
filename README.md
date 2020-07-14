@@ -216,7 +216,7 @@ Now,create a ingress file named as jenkins-ingress.yaml to configure your jenkin
 # Access Jenkins
 Now that Jenkins has been deployed, visit the address that was received from the ingress output:
 
-<img src=https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/1.png>
+!(https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/1.png)
 
 
 You can retrieve the username and password from the Civo Dashboard under "Installed applications":
@@ -225,11 +225,11 @@ You can retrieve the username and password from the Civo Dashboard under "Instal
 
 To get started, let's create a traditional hello-world job, which in this case is a shell script that outputs the time:
 
-!( https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/2.png )
+!(https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/2.png)
 
 From the build section, select the execute shell option:
 
-! (https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/3.png)
+!(https://github.com/lekhika13/jenkins-on-civo/blob/master/screenshots/3.png)
 
 Then we will execute a very basic shell script that returns the date.After saving the job, select build now:
 
